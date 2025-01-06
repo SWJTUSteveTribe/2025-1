@@ -1,0 +1,5 @@
+
+#Common Settings
+[common]
+	enabledItems = ["sophisticatedstorage:diamond_to_netherite_tier_upgrade|true", "sophisticatedstorage:shulker_box|true", "sophisticatedbackpacks:compacting_upgrade|true", "sophisticatedstorage:barrel|true", "sophisticatedstorage:compacting_upgrade|true"]
+
